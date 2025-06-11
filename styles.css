@@ -120,6 +120,7 @@
 
     body {
       background-color: var(--color-bg);
+           backdrop-filter: blur(10px);
       color: var(--color-text);
       font-family: var(--font-primary);
       line-height: 1.6;
